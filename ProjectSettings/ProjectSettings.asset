@@ -726,7 +726,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     Analytics: 0
-    Build: 1
+    Build: 0
     Collab: 0
     ErrorHub: 0
     Game_Performance: 0
@@ -736,8 +736,8 @@ PlayerSettings:
     Unity_Ads: 0
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: ca7a3389-ec6c-44b1-a44d-aa0da4930165
-  projectName: Antura_arabic
+  cloudProjectId: 8a5e7f56-1d78-43f0-b672-e2d226dbc246
+  projectName: Antura_darija
   organizationId: video-games-without-borders
   cloudEnabled: 0
   enableNewInputSystem: 0
