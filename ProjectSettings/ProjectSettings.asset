@@ -11,7 +11,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 0
   companyName: CGL / VGWB / Wixel
-  productName: Antura
+  productName: Antura (darija)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -145,13 +145,13 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
-    Android: org.eduapp4syria.antura
+    Android: org.antura.darija
     Standalone: unity.CGL / VGWB / Wixel.Antura
     Tizen: org.eduapp4syria.antura
-    iOS: org.eduapp4syria.antura
+    iOS: org.antura.darija
     tvOS: org.eduapp4syria.antura
   buildNumber:
-    iOS: 2
+    iOS: 1
   AndroidBundleVersionCode: 1020200
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
