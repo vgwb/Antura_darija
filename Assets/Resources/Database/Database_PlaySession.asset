@@ -1368,8 +1368,6 @@ MonoBehaviour:
       - waw_kasrah
       - waw_sukun
       _Words:
-      - month_august
-      - month_march
       - furniture
       - brother
       - sister
@@ -1378,7 +1376,6 @@ MonoBehaviour:
       - ear
       - i_am
       - you
-      - month_may
       - number_02
       - door
       - father
@@ -1395,7 +1392,6 @@ MonoBehaviour:
       - carrot
       - islands
       - hot_weather
-      - month_june
       - sad
       - whale
       - bread
@@ -2005,7 +2001,6 @@ MonoBehaviour:
       - potato
       - belly
       - watermelon
-      - icecream
       - remain
       - vegetables
       - studied
@@ -2013,7 +2008,6 @@ MonoBehaviour:
       - hot_temperature
       - tooth
       - tea
-      - month_february
       - tree
       - drank
       - drank_feminine
@@ -2028,7 +2022,6 @@ MonoBehaviour:
       - doctor
       - eagle
       - active
-      - month_april
       _Words_previous: []
       _Phrases: []
       _Phrases_previous: []
@@ -2598,7 +2591,6 @@ MonoBehaviour:
       - nose
       - needle
       - slow
-      - tomato
       - color_purple
       - apple
       - grandmother
@@ -3222,7 +3214,6 @@ MonoBehaviour:
       - back
       - ball
       - banana
-      - bank
       - basketball
       - beautiful
       - believed
@@ -3311,12 +3302,6 @@ MonoBehaviour:
       - man
       - meat
       - melancholy
-      - month_december
-      - month_january
-      - month_july
-      - month_november
-      - month_october
-      - month_september
       - month
       - moon
       - mother
@@ -3444,7 +3429,6 @@ MonoBehaviour:
       - the_hat
       - the_hospital
       - the_house
-      - the_icecream
       - the_juice
       - the_lazy
       - the_leg
@@ -3477,7 +3461,6 @@ MonoBehaviour:
       - the_tiger
       - the_time
       - the_tooth
-      - the_trousers
       - the_well-being
       - the_whale
       - the_window
@@ -3491,7 +3474,6 @@ MonoBehaviour:
       - tomorrow
       - tongue
       - triangle
-      - trousers
       - uncle_father
       - uncle_mother
       - understood
