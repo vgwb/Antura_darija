@@ -44,6 +44,9 @@ namespace Antura.Core
             }
 
             AudioManager.I.MusicEnabled = Settings.MusicEnabled;
+            // force Subtitles FALSE
+            Settings.SubtitlesEnabled = false;
+
             // Debug.Log("Setting music to " + Settings.MusicOn);
             return _settings;
         }
