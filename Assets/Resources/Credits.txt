@@ -1,3 +1,41 @@
+﻿[0]FONDATION TOURIA & ABDELAZIZ TAZI[0E]
+PRESENTS 
+
+A
+[1]ZONE 3 4 5[1E]
+AND 
+[1]Video Games Without Borders[1E]
+PRODUCTION
+
+IN COLLABORATION WITH
+[1]TH Köln / Cologne Game Lab[1E]
+
+
+[0]DEV TEAM[0E]
+
+[1]PROJECT LEAD AND AUDIO DESIGN[1E]
+Hamza Chioua
+
+[1]TRANSLATION[1E]
+Mounir Oubry
+
+[1]VOICE ACTING[1E]
+Mouna Belgrini
+Mounir Oubry
+
+[1]R&D AND PRODUCTION[1E]
+Stefano Cecere
+
+[1]PRODUCER[1E]
+Francesco Cavallari
+
+
+--------
+
+
+BASED ON THE ORIGINAL GAME
+[0]ANTURA AND THE LETTERS - ARABIC[0E]
+
 PRODUCED BY
 [0]TH Köln / Cologne Game Lab[0E]
 [0]Video Games Without Borders[0E]
