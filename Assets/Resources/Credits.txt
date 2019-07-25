@@ -26,6 +26,9 @@ Mounir Oubry
 [1]TRAILER[1E]
 Pierre Schlömp
 
+[1]PROGRAMMER[1E]
+Michele Pirovano
+
 [1]R&D AND PRODUCTION[1E]
 Stefano Cecere
 
