@@ -164,7 +164,7 @@ PlayerSettings:
     tvOS: org.eduapp4syria.antura
   buildNumber:
     iOS: 4
-  AndroidBundleVersionCode: 5
+  AndroidBundleVersionCode: 6
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 28
   AndroidPreferredInstallLocation: 1
@@ -253,7 +253,7 @@ PlayerSettings:
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
-  AndroidTargetArchitectures: 3
+  AndroidTargetArchitectures: 7
   AndroidSplashScreenScale: 1
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: /Users/krur/Documents/Projects/VGWB.Antura/_antura_production/Android_Keystore/Darija/antura_darija.keystore
