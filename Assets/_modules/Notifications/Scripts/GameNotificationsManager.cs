@@ -132,7 +132,7 @@ namespace Antura.Modules.Notifications
         private bool inForeground = true;
 
         /// <summary>
-        /// Clean up platform object if necessary 
+        /// Clean up platform object if necessary
         /// </summary>
         protected virtual void OnDestroy()
         {
@@ -156,7 +156,7 @@ namespace Antura.Modules.Notifications
                 return;
             }
             I = this;
-            if (transform.parent == null) DontDestroyOnLoad(gameObject);
+            // if (transform.parent == null) DontDestroyOnLoad(gameObject);
         }
 
         /// <summary>
@@ -524,7 +524,7 @@ namespace Antura.Modules.Notifications
                     }
                 }
             } else {
-                // Just create PendingNotification wrappers for all deserialized items. 
+                // Just create PendingNotification wrappers for all deserialized items.
                 // We're not rescheduling them because they were not cleared
                 if (loaded == null) {
                     return;

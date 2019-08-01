@@ -52,7 +52,7 @@ namespace Antura.Core
         /// Switches on all Debug.Log calls for performance.
         /// Set to FALSE for production.
         /// </summary>
-        public static bool DebugLogEnabled = true;
+        public static bool DebugLogEnabled = false;
 
         /// <summary>
         /// Logs all MySQL database inserts.
