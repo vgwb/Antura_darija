@@ -253,7 +253,7 @@ PlayerSettings:
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
-  AndroidTargetArchitectures: 7
+  AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 1
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: /Users/krur/Documents/Projects/VGWB.Antura/_antura_production/Android_Keystore/Darija/antura_darija.keystore
