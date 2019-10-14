@@ -32,7 +32,7 @@ namespace Antura.Database
         Sport = 9,
         Thing = 7,
         Time = 20,
-        Vehicle = 15,
+        // Vehicle = 15,
         Weather = 29,
         Verbs = 31,
     }

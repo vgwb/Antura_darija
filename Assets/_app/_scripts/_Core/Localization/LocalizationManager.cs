@@ -140,9 +140,9 @@ namespace Antura.Core
                 case WordDataCategory.Time:
                     loc = LocalizationDataId.UI_Time;
                     break;
-                case WordDataCategory.Vehicle:
-                    loc = LocalizationDataId.UI_Vehicles;
-                    break;
+                //case WordDataCategory.Vehicle:
+                //    loc = LocalizationDataId.UI_Vehicles;
+                //    break;
                 case WordDataCategory.Weather:
                     loc = LocalizationDataId.UI_WordCat_Weather;
                     break;
