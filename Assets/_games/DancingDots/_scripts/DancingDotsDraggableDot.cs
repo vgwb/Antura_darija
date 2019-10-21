@@ -26,6 +26,19 @@ namespace Antura.Minigames.DancingDots
         private float startZ;
         private Vector3 originalScale;
 
+        private void Awake()
+        {
+            originalScale = transform.localScale;
+            startX = transform.position.x;
+            startY = transform.position.y;
+            startZ = transform.position.z;
+        }
+
+        void Start()
+        {
+            Reset();
+        }
+
         void OnMouseDown()
         {
             if (game.disableInput) {
@@ -42,11 +55,11 @@ namespace Antura.Minigames.DancingDots
 
         void OnMouseDrag()
         {
-            if (game.disableInput)
+            if (game.disableInput) {
                 return;
+            }
 
             Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
-
             Vector3 curPosition = Camera.main.ScreenToWorldPoint(curScreenPoint) + offset;
             transform.position = new Vector3(curPosition.x + fingerOffset.x, curPosition.y + fingerOffset.y, -10);
         }
@@ -81,18 +94,6 @@ namespace Antura.Minigames.DancingDots
 
             overPlayermarker = false;
             overDestinationMarker = false;
-        }
-
-
-
-        void Start()
-        {
-            originalScale = transform.localScale;
-            startX = transform.position.x;
-            startY = transform.position.y;
-            startZ = transform.position.z;
-
-            Reset();
         }
 
         public void Reset()
@@ -136,7 +137,6 @@ namespace Antura.Minigames.DancingDots
         void Setmarker(Collider other, bool markerStatus)
         {
             if (other.tag == "Player") { overPlayermarker = markerStatus; }
-
 
             if (isDot) {
                 if (other.tag == DancingDotsGame.DANCING_DOTS) {
